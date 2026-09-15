@@ -223,4 +223,4 @@ OIO is available as a complete free version with all features and updates includ
 Don't miss out on the adventure! Download OIO now and help the wooden puppet reclaim its light and save its friends!
 
 ---
-**Last updated:** 2026-09-15 07:22:47 UTC
+**Last updated:** 2026-09-15 13:15:23 UTC
